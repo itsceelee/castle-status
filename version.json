@@ -3,7 +3,7 @@
   "serversClosed": false,
   "closedMessage": "",
   "schedule": {
-    "enabled": true,
+    "enabled": false,
     "openFrom": "Sat 08:00",
     "closeAt": "Mon 08:00"
   }
