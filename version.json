@@ -1,6 +1,10 @@
 {
-  "requiredVersion": "...",
+  "requiredVersion": "0.0.07",
   "serversClosed": false,
   "closedMessage": "",
-  "schedule": { "enabled": true, "utcOffsetMinutes": 600, "openFrom": "Sat 08:00", "closeAt": "Mon 08:00" }
+  "schedule": {
+    "enabled": true,
+    "openFrom": "Sat 08:00",
+    "closeAt": "Mon 08:00"
+  }
 }
