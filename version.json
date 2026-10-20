@@ -2,6 +2,7 @@
   "requiredVersion": "0.0.07",
   "serversClosed": false,
   "closedMessage": "",
+  "bypassKeyHash": "005aa9f0a5a7da9a71e231bd3dbfe01c73ee6169e238ec10998b9a12095e5e9d",
   "schedule": {
     "enabled": false,
     "openFrom": "Sat 08:00",
