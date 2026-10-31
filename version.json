@@ -1,7 +1,7 @@
 {
-  "requiredVersion": "0.0.07",
-  "serversClosed": false,
-  "closedMessage": "",
+  "requiredVersion": "0.0.08",
+  "serversClosed": true,
+  "closedMessage": "Unstable/Unreliable Present Build",
   "bypassKeyHash": "d1319348b9368336a0fa216bcc517978001ffe021139f8ad82cc386c5b3b08b7",
   "schedule": {
     "enabled": true,
